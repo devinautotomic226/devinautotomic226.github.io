@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Mikey Becht"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,3 +9,5 @@ redirect_from:
 
 I am a math PhD student at Drexel University.
 My research focuses on Algebraic and Enumerative Combinatorics.
+
+This site is a work in progress!
